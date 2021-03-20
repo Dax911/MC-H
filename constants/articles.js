@@ -6,8 +6,8 @@ export default [
     horizontal: true
   },
   {
-    title: 'Many limitations on what’s right',
-    image: require("../assets/imgs/bg40.jpg"),
+    title: '23 tall blocks cactus found by PDW and edjotron',
+    image: require("../assets/imgs/CactusProj1.png"),
     cta: 'View article'
   },
   {
