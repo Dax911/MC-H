@@ -1,0 +1,2 @@
+Tan dark buttons = #8c693a or rgb(140, 105, 58)
+Tan light stuff = #fbc171 or rgb(251, 193, 113)
